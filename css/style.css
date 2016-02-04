@@ -1,0 +1,325 @@
+
+* {
+	box-sizing:content-box;
+	font-family:sans-serif;
+}
+header{
+	background: linear-gradient(to right, white , #E3E3E3);
+	width: 1349px;
+}
+.logo{
+	margin-left: 40px;
+}
+.superior{
+	position: relative;
+	right: 150px;
+}
+.movie{
+	margin-top: 35px;
+}
+.theater{
+	color: #5F5F5F;
+
+}
+
+.buscar{
+	float: right;
+	padding-top: 5px;
+	position: absolute;
+	left:1000px;
+	top: 20px;
+}
+.one{
+	display: inline-block;
+}
+.icon-search{
+	height: 35%;
+	width: 250%;
+	border:1px solid grey;
+	cursor: pointer;
+	color:black;
+	background-color: white;
+	position: relative;
+	padding: 4px;
+	text-align: left;
+}
+.fa-search{
+	float: right;
+}
+
+.banner{
+	background-image: url("../img/banner.jpg");
+	height: 600px;
+	width: 1349px;
+}
+.icono{
+	height: 70px;
+	width: 70px;
+}
+.small{
+	position: relative;
+	left: 50px;
+	top: 223px;
+
+}
+.letras{
+	position: relative;
+	left: 100px;
+	top: 50px;
+}
+.titulo{
+	color: white;
+	font-size: 35px;
+}
+
+.raya{
+	width: 250px;
+	border: 1px solid white;
+	
+}
+.age{
+	height: 30px;
+	width: 60px;
+	border-radius: 10px;
+	border:1px solid #01DF3A;
+	position: relative;
+	right: 20px;
+	top: 20px;
+}
+.all{
+	color: #01DF3A;
+	font-size: 12px;
+	text-align: center;
+	position: relative;
+	top: 5px;
+
+}
+.Hall{
+	color: white;
+	font-size: 12px;
+	position: relative;
+	left: 50px;
+	
+
+}
+.ancho{
+	width: 110px;
+}
+td{
+	
+	color: white;
+	font-size: 12px;
+}
+
+.izquierda{
+	position: relative;
+	top: 50px;
+}
+.derecha{
+	position: relative;
+	top: 50px;
+	left:-30px;
+}
+.genero{
+	position: relative;
+	left: 67px;
+	top: 15px;
+}
+.mini{
+	color: white;
+	font-size: 12px;
+}
+.dos{
+	margin-top: 5px;
+}
+.banner{
+	background:#383838 url('../img/banner.jpg') no-repeat;
+	height:500px;
+	background-size:70% 100%;
+}
+.yellow, .orange{
+	width: 176px;
+	height: 52px;
+	padding:16px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 17px;
+}
+.yellow{
+	background-color: #DFB636;
+}
+.orange{
+	background-color: #BB7B29;
+}
+.yellow a, .orange a{
+    text-decoration: none;
+    color: #FBFFF4;
+}
+.resumen{
+	color: white;
+	font-size: 12px;
+}
+.texto{
+	position: relative;
+	top:60px;
+	left: 9px;
+	width: 320px;
+}
+
+.yellow, .orange{
+	width: 140px;
+	height: 35px;
+	padding:16px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 70px;
+}
+.yellow{
+	background-color: #DFB636;
+}
+.orange{
+	background-color: #BB7B29;
+	margin-top: 15px;
+}
+.yellow a, .orange a{
+    text-decoration: none;
+    color: #FBFFF4;
+
+}
+.amarillo, .naranja{
+	font-size: 12px;
+	position: relative;
+	bottom: 5px;
+	position: static;
+	
+}
+.movies{
+	background-color: #DFB636;
+	height: 240px;
+}
+.img{
+	height: 200px;
+}
+.mov{
+	margin-top:20px;
+	margin-left: 10px;
+}
+
+
+.trailer{
+	text-decoration: none;
+	background-color: #DBA901;
+	font-size: 14px;
+}
+
+span .information{
+	float: left;
+}
+.orange{
+	color: #DBA901;
+}
+
+.compra{
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+.bloque{
+	display: inline-block;
+	margin-left:25px;
+	padding-bottom: 20px;
+	font-family: arial;
+}
+.late p{
+	font-size: 22px;
+	color:#D8D8D8;
+	padding: 10px;
+	position: relative;
+	right: 10px;
+	}
+.book p{
+	font-size:30px;
+	color:black;
+}
+.easy{
+	font-size: 20px;
+	color:#D8D8D8;
+}
+
+.white{
+	color:white;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+
+}
+.bottom{
+	height: 50px;
+	text-decoration: none;
+	font-size: 14px;
+	margin:10px;
+	padding: 15px 25px;
+	border-radius: 5px;
+	position:relative;
+	left: 18px;
+	background-color:#DF7401;
+}
+.reference{
+	text-decoration: none;
+}
+.new{
+	margin-top: 30px;
+	color: #D1D1D1;
+	margin-left: 10px;
+	font-size: 20px;
+
+}
+
+.lorem{
+	border-bottom: 1px solid #E3E3E3;
+	font-size:14px;
+	color:black;
+	margin-top: 20px;
+	margin-bottom: 10px
+}
+.more{
+	margin:20px;
+}
+.anaranjado{
+	color: #DBA901;
+}
+.light{
+	color: #D1D1D1;
+}
+.more{
+	color:#D1D1D1;
+}
+.get{
+	color: #DF7401;
+	font-size:14px;
+}
+
+.dark{
+	color:#A4A4A4;
+}
+.presentation{
+	background-color:#FACC2E;
+	height: 250px;
+}
+.blanco{
+	background-color: white;
+	height: 300px;
+}
+.direccion{
+	display: inline-block;
+	height: 320px;
+	width: 300px;
+	margin:1px;
+	padding: 12px;
+}
+.information{
+	color:#BDBDBD;
+	margin:20px;
+	padding: 8px;
+	font-size: 12px;
+}
